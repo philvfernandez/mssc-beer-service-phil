@@ -1,4 +1,4 @@
-package guru.springframework.msscbeerservicephil;
+package guru.springframework.msscbeerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
